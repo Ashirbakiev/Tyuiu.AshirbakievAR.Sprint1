@@ -30,6 +30,7 @@ namespace Tyuiu.AshirbakievAR.Sprint1.Task0.V0
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine(ds.Calculate());
+
             Console.ReadKey();
         }
     }
